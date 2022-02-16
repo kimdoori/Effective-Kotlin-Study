@@ -136,3 +136,8 @@ gradle-app.setting
 .classpath
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+iml,kotlin,gradle
+.idea/.name
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/libraries-with-intellij-classes.xml
+.idea/vcs.xml
